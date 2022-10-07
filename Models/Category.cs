@@ -16,5 +16,14 @@ namespace Expanse_tracker.Models
 
         [Column(TypeName = "nvarchar(10)")] 
         public string Type { get; set; } = "Expanse";
+
+        [NotMapped]
+        public string? TitleWithIcon 
+        { 
+            get
+            {
+                return this.Icon + "" + this.Title;
+            }
+        }
     }
 }
