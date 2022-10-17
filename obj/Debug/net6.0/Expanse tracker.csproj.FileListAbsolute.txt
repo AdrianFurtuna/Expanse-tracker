@@ -268,3 +268,4 @@ D:\Proiecte 2022\Expanse tracker\Expanse tracker\bin\Debug\net6.0\runtimes\win\l
 D:\Proiecte 2022\Expanse tracker\Expanse tracker\obj\Debug\net6.0\Expanse tracker.MvcApplicationPartsAssemblyInfo.cs
 D:\Proiecte 2022\Expanse tracker\Expanse tracker\bin\Debug\net6.0\Syncfusion.EJ2.dll
 D:\Proiecte 2022\Expanse tracker\Expanse tracker\bin\Debug\net6.0\Syncfusion.Licensing.dll
+D:\Proiecte 2022\Expanse tracker\Expanse tracker\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll

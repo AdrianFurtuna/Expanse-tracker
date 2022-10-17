@@ -9,6 +9,7 @@ namespace Expanse_tracker.Models
         public int CategoryId { get; set; }
 
         [Column(TypeName = "nvarchar(50)")]
+        [Required (ErrorMessage = "Title si required.")]
         public string Title { get; set; }
 
         [Column(TypeName = "nvarchar(5)")]
